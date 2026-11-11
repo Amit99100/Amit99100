@@ -1,12 +1,11 @@
 # Hi, I'm Amit Maurya! 👋  
 
-🚀 **Currently Working On:** Building scalable web applications and backend systems.  
+🚀 **Currently Working On:** Building scalable  applications and backend systems.  
 📘 **Currently Learning:** Advanced backend engineering and distributed systems.  
 💡 **About Me:** Passionate about solving real-world problems using software and product thinking.  
 🤝 **Looking to Collaborate On:** Open-source projects, innovative startups, and impactful software tools.  
-🎯 **Looking For Help With:** Scaling MERN apps, backend optimization, and API design.  
 💬 **Ask Me About:** Full-stack development, DSA, hackathons, and product building.  
-📩 **How to Reach Me:** [Email](mailto:20mm02009@iitbbs.ac.in) | [LinkedIn](https://www.linkedin.com/in/amit-maurya-b969a5246)  
+📩 **How to Reach Me:** [Email](mailto:amitmaurya.career@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amit-maurya-b969a5246)  
 
 ✨ **Fun Fact:** I enjoy teaching students in rural areas, exploring product ideas, and competitive programming.  
 
